@@ -38,7 +38,7 @@ To run this application, you'll need to set up and start both the backend and fr
 
 ## API Documentation
 
-For detailed API documentation, please refer to the [API Documentation](API_Documentation.md) file.
+For detailed API documentation, please refer to the [API Documentation](employee-management-system-backend/api-doc.md) file.
 
 ## Contributing
 
