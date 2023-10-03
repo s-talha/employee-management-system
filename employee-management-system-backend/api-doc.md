@@ -4,13 +4,13 @@ The Employee Management API provides endpoints for managing employee data.
 
 ## Get All Employees
 
-- **Endpoint:** `/api/employees/employees`
+- **Endpoint:** `/api/vi/employees/employees`
 - **HTTP Method:** GET
 - **Description:** Get a list of all employees in the system.
 
 ## Create Employee
 
-- **Endpoint:** `/api/employees/employees`
+- **Endpoint:** `/api/vi/employees/employees`
 - **HTTP Method:** POST
 - **Description:** Create a new employee in the system.
 
@@ -26,7 +26,7 @@ The Employee Management API provides endpoints for managing employee data.
 
 ## Get Employee by ID
 
-- **Endpoint:** `/api/employees/employees/{id}`
+- **Endpoint:** `/api/vi/employees/employees/{id}`
 - **HTTP Method:** GET
 - **Description:** Get information about a specific employee by their ID.
 
@@ -36,7 +36,7 @@ The Employee Management API provides endpoints for managing employee data.
 
 ## Update Employee by ID
 
-- **Endpoint:** `/api/employees/employees/{id}`
+- **Endpoint:** `/api/vi/employees/employees/{id}`
 - **HTTP Method:** PUT
 - **Description:** Update the information of an employee by their ID.
 
@@ -56,7 +56,7 @@ The Employee Management API provides endpoints for managing employee data.
 
 ## Delete Employee by ID
 
-- **Endpoint:** `/api/employees/employees/{id}`
+- **Endpoint:** `/api/vi/employees/employees/{id}`
 - **HTTP Method:** DELETE
 - **Description:** Delete an employee from the system by their ID.
 
